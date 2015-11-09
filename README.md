@@ -1,6 +1,9 @@
 # RecentWork
 Recent Sites I've worked on
 
+[windcreekmontgomery.com](http://www.windcreekmontgomery.com/)
+
+[jameshardie.com](http://www.jameshardie.com/)
 
 [healthcura.net](http://www.healthcura.net/)
 
@@ -9,3 +12,5 @@ Recent Sites I've worked on
 
 
 [ads-ot.com](http://ads-ot.com/)
+
+
